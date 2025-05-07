@@ -1,0 +1,5 @@
+23419|TAPIS|3|10
+09287|MICHEL|4|7
+42801|Martine|4|2
+30766|Haytham|3|4
+90564|Yassine|3|2
